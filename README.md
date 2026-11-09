@@ -198,3 +198,6 @@ This repository serves as the official landing page for STAR WARS: The Force Unl
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of STAR WARS: The Force Unleashed II today!**
+
+---
+**Last updated:** 2026-11-09 18:21:09 UTC
